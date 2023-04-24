@@ -30,4 +30,4 @@ The ‘simulated’ EEG time-series data and the sound signal are provided in th
 
 ## Research Paper
 
-The paper presented as part of this experiment with all the results and findings can be found in the Research_Paper folder.
+The paper presented as part of this experiment with all the results and findings can be found in the [Research_Paper](https://github.com/siddesai80/StatisticalMethods/tree/main/Research_Paper) folder.
